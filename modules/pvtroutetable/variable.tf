@@ -3,7 +3,7 @@ variable "private_routeTable_tags" {
   description = "tags for pvt_rtTable vpc"
   default = {
     Name    = "private-rtb",
-    Owner   = "abhilash",
+    Owner   = "dheerendra",
 
   }
 }
