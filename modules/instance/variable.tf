@@ -8,7 +8,7 @@ variable "instance_tags" {
   description = "tags for master instance"
   default = {
     Name    = "master",
-    Owner   = "abhilash",
+    Owner   = "dheerendra",
   }
 }
 variable "security_group" {
